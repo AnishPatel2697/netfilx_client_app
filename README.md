@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Repositories
+This Netflix clone is built with a fullstack architecture. You can explore the related repositories below:
+
+[Netflix Server App](https://github.com/AnishPatel2697/netflix_server) - The backend API that powers the client-side, built with Node.js.
+[Netflix Admin Ap](https://github.com/AnishPatel2697/netflix_admin_app) - The admin interface for managing content and users, built with React and Node.js.
+
 ## Available Scripts
 
 In the project directory, you can run:
